@@ -1,5 +1,3 @@
 def summ_number(a, b):
     summ = a+b
-    return summ
-
-
+    return summs
